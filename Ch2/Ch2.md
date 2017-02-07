@@ -1,4 +1,4 @@
-# Go语法
+## Go语法
 
 其实讲这类基础的书我只服 [雨痕](https://github.com/qyuhen),如果有时间的，大家就去她那边去下载Pdf看看吧，别问我哪个repo，这个大大好像就一个repo...Star好多的那个
 

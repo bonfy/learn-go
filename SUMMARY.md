@@ -6,4 +6,5 @@
   * [1.2 Go命令](Ch1\Command.md)
 * [2. Go语法](Ch2\Ch2.md)
   * [2.1 第一个程序](Ch2\FirstProgram.md)
+  * [2.2 Array](Ch2\Array.md)
 * [Python vs Go](PVG.md)
